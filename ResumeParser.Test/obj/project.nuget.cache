@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XrPkIGNGaRTYboabkOSIRnnGLSgIlPKIdmv45hqSDG8EpORkUB5WoKDQ+q0B0BKuiitV2me19QreBbhwsHwrg==",
+  "success": true,
+  "projectFilePath": "/Users/borabilir/Projects/ResumeParser/ResumeParser.Test/ResumeParser.Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/borabilir/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/borabilir/.nuget/packages/pdfpig/0.1.6/pdfpig.0.1.6.nupkg.sha512",
+    "/Users/borabilir/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/borabilir/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/borabilir/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ResumeParser.Test/1.0.0": {
+        "dependencies": {
+          "ResumeParser.API": "1.0.0"
+        },
+        "runtime": {
+          "ResumeParser.Test.dll": {}
+        }
+      },
+      "PdfPig/0.1.6": {
+        "runtime": {
+          "lib/netstandard2.0/UglyToad.PdfPig.Core.dll": {
+            "assemblyVersion": "0.1.6.0",
+            "fileVersion": "0.1.6.0"
+          },
+          "lib/netstandard2.0/UglyToad.PdfPig.DocumentLayoutAnalysis.dll": {
+            "assemblyVersion": "0.1.6.0",
+            "fileVersion": "0.1.6.0"
+          },
+          "lib/netstandard2.0/UglyToad.PdfPig.Fonts.dll": {
+            "assemblyVersion": "0.1.6.0",
+            "fileVersion": "0.1.6.0"
+          },
+          "lib/netstandard2.0/UglyToad.PdfPig.Package.dll": {
+            "assemblyVersion": "0.1.5.0",
+            "fileVersion": "0.1.5.0"
+          },
+          "lib/netstandard2.0/UglyToad.PdfPig.Tokenization.dll": {
+            "assemblyVersion": "0.1.6.0",
+            "fileVersion": "0.1.6.0"
+          },
+          "lib/netstandard2.0/UglyToad.PdfPig.Tokens.dll": {
+            "assemblyVersion": "0.1.6.0",
+            "fileVersion": "0.1.6.0"
+          },
+          "lib/netstandard2.0/UglyToad.PdfPig.dll": {
+            "assemblyVersion": "0.1.6.0",
+            "fileVersion": "0.1.6.0"
+          }
+        }
+      },
+      "ResumeParser.API/1.0.0": {
+        "dependencies": {
+          "PdfPig": "0.1.6"
+        },
+        "runtime": {
+          "ResumeParser.API.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResumeParser.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PdfPig/0.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wPL3AFHIn2KwJ25ldhSjNajjF3PdnfZD7102kZnxCxnvPXEd4WtYPETj66MGrSUuzAhqtfnEOvIrTKQ543Leiw==",
+      "path": "pdfpig/0.1.6",
+      "hashPath": "pdfpig.0.1.6.nupkg.sha512"
+    },
+    "ResumeParser.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

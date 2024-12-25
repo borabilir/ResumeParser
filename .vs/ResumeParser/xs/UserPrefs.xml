@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.ResumeParser.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ResumeParser.API/ResumeConfigurations/KariyerNetResumeConfigurations.cs">
+    <Files>
+      <File FileName="ResumeParser.API/ResumeConfigurations/LinkedinResumeConfigurations.cs" Line="25" Column="32" />
+      <File FileName="ResumeParser.API/ResumeConfigurations/KariyerNetResumeConfigurations.cs" Line="66" Column="32" />
+      <File FileName="ResumeParser.API/ResumeConfigurations/ResumeConfigurationsBase.cs" />
+      <File FileName="ResumeParser.API/Model/Line.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ResumeParser" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/Controllers/FileController.cs" relfile="ResumeParser.API/Controllers/FileController.cs" line="23" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeParsers/ResumeParserBase.cs" relfile="ResumeParser.API/ResumeParsers/ResumeParserBase.cs" line="20" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.Test/Program.cs" relfile="ResumeParser.Test/Program.cs" line="23" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeConfigurations/LinkedinResumeConfigurations.cs" relfile="ResumeParser.API/ResumeConfigurations/LinkedinResumeConfigurations.cs" line="21" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeConfigurations/LinkedinResumeConfigurations.cs" relfile="ResumeParser.API/ResumeConfigurations/LinkedinResumeConfigurations.cs" line="69" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/Model/Resume/Builders/ReadExpressionBuilder.cs" relfile="ResumeParser.API/Model/Resume/Builders/ReadExpressionBuilder.cs" line="30" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeConfigurations/ResumeConfigurationsBase.cs" relfile="ResumeParser.API/ResumeConfigurations/ResumeConfigurationsBase.cs" line="191" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeConfigurations/ResumeConfigurationFactory.cs" relfile="ResumeParser.API/ResumeConfigurations/ResumeConfigurationFactory.cs" line="42" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeConfigurations/ResumeConfigurationFactory.cs" relfile="ResumeParser.API/ResumeConfigurations/ResumeConfigurationFactory.cs" line="20" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeConfigurations/ResumeConfigurationFactory.cs" relfile="ResumeParser.API/ResumeConfigurations/ResumeConfigurationFactory.cs" line="25" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeConfigurations/ResumeConfigurationsBase.cs" relfile="ResumeParser.API/ResumeConfigurations/ResumeConfigurationsBase.cs" line="232" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/ResumeConfigurations/ResumeConfigurationsBase.cs" relfile="ResumeParser.API/ResumeConfigurations/ResumeConfigurationsBase.cs" line="30" column="1" />
+      <Breakpoint file="/Users/borabilir/Projects/ResumeParser/ResumeParser.API/Controllers/FileController.cs" relfile="ResumeParser.API/Controllers/FileController.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ResumeParser.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <None Remove="Model\" />
+    <None Remove="iTextSharp" />
+    <None Remove="Utils\" />
+    <None Remove="Parsers\" />
+    <None Remove="Aspose.PDF" />
+    <None Remove="Aspose.Words" />
+    <None Remove="Microsoft.Office.Interop.Word" />
+    <None Remove="PdfPig" />
+    <None Remove="ResumeConfigurations\" />
+    <None Remove="Model\Resume\" />
+    <None Remove="Model\Resume\Builders\" />
+    <None Remove="Newtonsoft.Json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="Utils\" />
+    <Folder Include="ResumeConfigurations\" />
+    <Folder Include="Model\Resume\" />
+    <Folder Include="Model\Resume\Builders\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="PdfPig" Version="0.1.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+</Project>
